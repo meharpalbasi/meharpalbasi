@@ -37,5 +37,6 @@ Hey, I'm Meharpal, a Data Analyst, with a focus on Machine Learning, Scraping Da
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Airflow](https://img.shields.io/badge/airflow-%230db7ed.svg?style=for-the-badge&logo=airflow&logoColor=white)
+![DBT](https://img.shields.io/badge/DBT-FF4d00.svg?style=for-the-badge&logo=dbt&logoColor=white)
   
 </div>
